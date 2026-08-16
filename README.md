@@ -25,3 +25,14 @@ Student-Record-Management-System
 │
 ├── StudentManagement.java
 └── README.md
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in a Java IDE such as IntelliJ IDEA or Eclipse.
+3. Compile and run `StudentManagement.java`.
+4. Follow the menu options displayed in the console.
+
+## Author
+
+**Susmitha**
